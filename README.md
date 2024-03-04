@@ -6,7 +6,7 @@
 
 (You May use chrome as well but you have to change the code accordingly. Do your own research for that) 
 
-### To run this script follow the steps: (Commands are for Linux/MacOS, if you are a windows user please die)
+### To run this script follow the steps: (Commands are for Linux/MacOS/WINDOWS)
 - Create virtual environment
   `python3 -m venv venv`
 - Install the Dependencies
